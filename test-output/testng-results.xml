@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="43" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+      <class name="com.test.TestngBasicss">
+        <test-method status="PASS" signature="SetProperty()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="SetProperty" is-config="true" duration-ms="10" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetProperty -->
+        <test-method status="PASS" signature="InvokeChrome()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="InvokeChrome" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeChrome -->
+        <test-method status="PASS" signature="GetURL()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="GetURL" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetURL -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="login" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="DashboardTest()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="DashboardTest" duration-ms="5" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DashboardTest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="Logout" is-config="true" duration-ms="1" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="login" is-config="true" duration-ms="1" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="SearchTest()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="SearchTest" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="Logout" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="ValidateTitleTest()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="ValidateTitleTest" duration-ms="1" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitleTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="login" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="Logout" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="Close" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="exit" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:41 IST" finished-at="2022-01-07T14:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="Endsuite()[pri:0, instance:com.test.TestngBasicss@57855c9a]" name="Endsuite" is-config="true" duration-ms="0" started-at="2022-01-07T14:48:42 IST" finished-at="2022-01-07T14:48:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endsuite -->
+      </class> <!-- com.test.TestngBasicss -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

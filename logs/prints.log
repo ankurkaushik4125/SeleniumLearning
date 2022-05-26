@@ -1,0 +1,5 @@
+19:22:33.546 [main] FATAL utility.Log4j_demo -  fatal
+19:23:44.445 [main] DEBUG utility.Log4j_demo - This is debug
+19:23:44.451 [main] INFO  utility.Log4j_demo - object is present
+19:23:44.452 [main] ERROR utility.Log4j_demo - object is not present
+19:23:44.452 [main] FATAL utility.Log4j_demo -  fatal
